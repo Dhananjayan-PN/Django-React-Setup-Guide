@@ -25,7 +25,7 @@ A basic understanding of Python, Django, JavaScript & React
 
 9. Setup urls.py in `djangoreact/djangoreact/urls.py` to include frontend urls:
     * Add an import statement `from django.urls import include`
-    * To the urlpatterns list add: `path('', include('frontend.urls')),`
+    * To the `urlpatterns` list add: `path('', include('frontend.urls')),`
 
 10. Create a `templates` folder in the `frontend` app folder & in the `templates` folder create a `frontend` folder
 
@@ -46,7 +46,7 @@ A basic understanding of Python, Django, JavaScript & React
     </html>
     ```
 
-12. Create a `static` folder in `frontend` folder and add 3 subfolders: `css`, `js` & `images`
+12. Create a `static` folder in the `frontend` app folder and add 3 subfolders: `css`, `js` & `images`
 
 13. In `djangoreact/djangoreact/settings.py` file change STATIC_URL from `/static/` to `/frontend/static/`
 
