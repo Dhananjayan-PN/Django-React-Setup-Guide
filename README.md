@@ -52,7 +52,7 @@ A guide to setup a React frontend with a Django backend
     def index(request):
         return render(request, 'frontend/index.html')
 
-15. Create urls.py file in `frontend` app folder and enter the following in it:
+15. Create a `urls.py` file in `frontend` app folder and enter the following in it:
     ```python
     from django.urls import path
     from .views import index
