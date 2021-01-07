@@ -130,7 +130,11 @@ Now onto some React & Webpack config
 
 27. In a new terminal window, execute `cd frontend && npm run dev`
 
-28. Visit `http://127.0.0.1:8000` in your web browser and you should see your Django React Setup Works page.
+28. Visit [http://127.0.0.1:8000](http://127.0.0.1:8000) in your web browser and you should see your Django React Setup Works page.
+
+29. Edit `App.js` file to whatever you want it to say. Save the file & reload on the browser to see your changes!
+
+30. Happy Coding!
 
 ### Now you can get building some crazy React frontend with a powerful Django backend 😎
 
