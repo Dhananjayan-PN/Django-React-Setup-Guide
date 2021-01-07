@@ -82,9 +82,9 @@ Now onto some React & Webpack config
     
     `npm install react react-dom --save-dev`
     
-21. Create a file called `babel.config.json` in the `frontend` app directory and write as shown here
+21. Create a file called `babel.config.json` in the `frontend` app directory and write as shown [here](https://github.com/Dhananjayan-PN/Django-React-Setup-Guide/blob/main/babel.config.json)
 
-22. Create a file called `webpack.config.js` in the `frontend` app directory and write as shown here
+22. Create a file called `webpack.config.js` in the `frontend` app directory and write as shown [here](https://github.com/Dhananjayan-PN/Django-React-Setup-Guide/blob/main/webpack.config.js)
 
 23. Modify the npm scripts in the `package.json` file in the `frontend` app directory:
     1. Remove `"test": "echo \"Error: no test specified\" && exit 1"` from the scripts object
@@ -121,11 +121,11 @@ Now onto some React & Webpack config
     );
     ```
     
-26. In the terminal cd to the project root directory and enter `python manage.py migrate && python manage.py runserver`
+26. In the terminal, `cd` to the project root directory and enter `python manage.py migrate && python manage.py runserver`
 
 27. In a new terminal window, execute `cd frontend && npm run dev`
 
-28. Visit `http://127.0.0.1:8000` and you should see your Django React Setup Works page.
+28. Visit `http://127.0.0.1:8000` in your web browser and you should see your Django React Setup Works page.
 
 ### Now you can get building some crazy React frontend with a powerful Django backend 😎
 
