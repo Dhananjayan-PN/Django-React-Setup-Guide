@@ -1,6 +1,9 @@
 # Django-React-Setup-Guide
 A guide to setup a React frontend with a Django backend
 
+# Pre-requisites
+A basic understanding of Python, Django, JavaScript & React
+
 # Steps
 1. Install Django: `pip(3) install django`
 
