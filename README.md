@@ -1,3 +1,5 @@
+![Banner](https://github.com/Dhananjayan-PN/Django-React-Setup-Guide/blob/main/Django%20%26%20React.png "Django & React")
+
 # Django-React-Setup-Guide
 A guide to setup a React frontend with a Django backend
 
